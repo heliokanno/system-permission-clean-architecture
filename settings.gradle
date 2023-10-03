@@ -1,6 +1,8 @@
 rootProject.name = 'system-permission'
 include 'application'
 include 'business'
+include 'adapter:data-provider'
+
 
 dependencyResolutionManagement {
     repositories {
