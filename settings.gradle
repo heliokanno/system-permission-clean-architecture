@@ -1,5 +1,6 @@
 rootProject.name = 'system-permission'
 include 'application'
+include 'business'
 
 dependencyResolutionManagement {
     repositories {
