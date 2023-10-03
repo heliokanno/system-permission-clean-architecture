@@ -1,0 +1,10 @@
+rootProject.name = 'system-permission'
+include 'application'
+
+dependencyResolutionManagement {
+    repositories {
+        mavenCentral()
+    }
+}
+
+
