@@ -2,7 +2,7 @@ rootProject.name = 'system-permission'
 include 'application'
 include 'business'
 include 'adapter:data-provider'
-
+include 'adapter:web'
 
 dependencyResolutionManagement {
     repositories {
